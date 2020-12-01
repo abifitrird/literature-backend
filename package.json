@@ -22,7 +22,8 @@
     "mysql2": "^2.2.5",
     "nodemon": "^2.0.6",
     "pg": "^8.5.1",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
     "sequelize-cli": "^6.2.0"
